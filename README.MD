@@ -19,8 +19,7 @@ Git
 ### Installation instruction
 
 ```
-Git clone https://github.com/mkubwa1234/code-challenge-week-1
-
+Git clone https://github.com/mkubwa1234/Project-1
 ```
 
 # Live Link
